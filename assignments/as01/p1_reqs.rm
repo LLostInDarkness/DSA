@@ -1,15 +1,18 @@
-# CS21: Assignment 1 (Review: Linked Lists; Stacks; Queues)  
-## DIRECTORY NAME  
+CS21: Assignment 1 (Review: Linked Lists; Stacks; Queues)  
+
+DIRECTORY NAME  
 21-1  
-## REQUIRED EXECUTABLE NAME  
+
+REQUIRED EXECUTABLE NAME  
 p1  
+
 ```
 I'll run your program either way:  
 ./p1  
 java p1  
 ```
 
-## PROGRAM DESCRIPTION  
+PROGRAM DESCRIPTION  
 Using C++ or Java, create a doubly linked list data structure that stores strings. At a minimum, you must have a List class that contains the list functionality
 (including an insert function) and a linking object ("link node") class. For convenience, you may include the data in the link node objects, or you may use a 
 separate, third, (possibly generic) data class or generic (template) data type. You may use an inner class for the LinkNode and/or include the LinkNode 
@@ -31,4 +34,4 @@ Put all of the source code files (.cpp, .h, makefile if C++, .java, etc.) but no
 .class files etc.) in a directory named as shown above in the home directory of your account on pengo. C++ projects must build properly with a "make" command, 
 Java projects must compile correctly with a "javac *.java" command.  
   
-Due Date: February 13, 2025 @ 1900 (7 PM)
+Due Date: Thursday February 13, 2025 @ 1900 (7 PM)
