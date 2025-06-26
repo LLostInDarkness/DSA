@@ -1,9 +1,6 @@
 /*
-Rebecca Negrete
-rnegrete
-rnegrete0454@gmail.com
-quicksort.h
-Assignment 3 Quicksort
+  quicksort.h
+  Assignment 3 Quicksort
 */
 
 #include <vector>
