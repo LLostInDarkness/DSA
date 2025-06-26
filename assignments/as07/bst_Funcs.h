@@ -1,7 +1,5 @@
 /*
-  Rebecca Negrete
-  rnegrete0454@gmail.com
-  Assignment 7
+  Assignment 7: Binary Search Tree
   bst_Funcs.h
 */
 
