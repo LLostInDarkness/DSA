@@ -1,9 +1,7 @@
 /*
-Rebecca Negrete
-rnegrete0454@gmail.com
-minHeap.h
-Assignment 02: Integer Minimum Heap and Priority Queue
-Tested/Works
+  minHeap.h
+  Assignment 02: Integer Minimum Heap and Priority Queue
+  Tested/Works
 */
 
 #include <sstream>
