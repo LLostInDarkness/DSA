@@ -1,9 +1,5 @@
 /*
-  Rebecca Negrete
-  rnegrete
-  rnegrete0454@gmail.com
   Assignmnent 9: Floyd-Warshall
-
   Tested & Works, no mem leaks found
 
   Purpose: Read from STDIN complete directed edges on each line of input,
