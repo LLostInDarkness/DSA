@@ -1,8 +1,5 @@
 /*
-  Rebecca Negrete
-  rnegrete
-  rnegrete0454@gmail.com
-  Assignment 7
+  Assignment 7: Binary Search Tree
   bst.cpp
 */
 
