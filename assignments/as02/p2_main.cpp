@@ -1,15 +1,14 @@
 /*
-Rebecca Negrete
-rnegrete0454@gmail.com
-p2_main.cpp
-Assignment 02: Integer Minimum Heap and Priority Queue
-Tested & Mostly Works
-- Haven't fully tested if it returns false if inputs are over heap bounds
+  p2_main.cpp
+  Assignment 02: Integer Minimum Heap and Priority Queue
+  Tested & Mostly Works
+  - Haven't fully tested if it returns false if inputs are over heap bounds
+  - Fully works after revisions 
 
-Purpose of the program is to input integer values to then be outputted
-into either a sorted array, removed if it's the lowest value, or printed
-as a heap.  Program should output false if the input amount exceeds 2.4
-million.
+  Purpose of the program is to input integer values to then be outputted
+  into either a sorted array, removed if it's the lowest value, or printed
+  as a heap.  Program should output false if the input amount exceeds 2.4
+  million.
 */
 
 #include "minHeap.h"
