@@ -1,13 +1,10 @@
 /*
-Rebecca Negrete
-rnegrete
-rnegrete0454@gmail.com
-quicksortFuncs.cpp
-Assignment 3 Quicksort
-Tested/Works
+  quicksortFuncs.cpp
+  Assignment 3 Quicksort
+  Tested/Works
 
-Purpose: Recieves unspecified amount of input (will be integers) from STDIN.
-Will return a sorted vector of all numerical inputs in ascending order.
+  Purpose: Recieves unspecified amount of input (will be integers) from STDIN.
+  Will return a sorted vector of all numerical inputs in ascending order.
 */
 
 #include "quicksort.h"
