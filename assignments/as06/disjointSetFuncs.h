@@ -1,7 +1,5 @@
 /*
-  Rebecca Negrete
-  rnegrete
-  rnegrete0454@gmail.com
+  Assignment 6: Disjoint Maze
   disjointSetFuncs.h
 */
 
