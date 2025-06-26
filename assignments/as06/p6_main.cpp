@@ -1,7 +1,5 @@
 /*
-  Rebecca Negrete
-  rnegrete
-  rnegrete0454@gmail.com
+  Assignment 6: Disjoint Maze
   p6_main.cpp
   Tested & Works
 
