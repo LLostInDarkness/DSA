@@ -1,9 +1,6 @@
 /*
-Rebecca Negrete
-rnegrete
-rnegrete0454@gmail.com
-quicksortFuncs.cpp
-Assignment 3 Quicksort
+  quicksortFuncs.cpp
+  Assignment 3 Quicksort
 */
 
 #include "quicksort.h"
