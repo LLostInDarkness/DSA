@@ -1,5 +1,5 @@
 /*
-  Assignment 6: Disjoint Set
+  Assignment 6: Disjoint Maze
   disjointSet.cpp
 */
 
