@@ -1,9 +1,6 @@
 /*
-  Rebecca Negrete
-  rnegrete
-  rnegrete0454@gmail.com
   hashFuncs.h
-  Assignment 5: Hash
+  Assignment 5: Hash Table
   Tested/Works
 */
 
