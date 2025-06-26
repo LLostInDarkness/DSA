@@ -1,8 +1,5 @@
 /*
-  Rebecca Negrete
-  rnegrete
-  rnegrete0454@gmail.com
-  Assignment 8: BFS
+  Assignment 8: Breadth First Search
 
   Tested & Works w/ no mem leaks
 
