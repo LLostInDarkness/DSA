@@ -1,7 +1,4 @@
 /*
-  Rebecca Negrete
-  rnegrete
-  rnegrete0454@gmail.com
   hashFuncs.h
   Assignment 5: Hash
   Tested/Works
