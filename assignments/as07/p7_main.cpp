@@ -1,9 +1,6 @@
 /*
-  Rebecca Negrete
-  rnegrete
-  rnegrete0454@gmail.com
+  Assignment 7: Binary Search Tree
   p7_main.cpp
-  Assignment 7
   Tested/Works
 
   Purpose: Input what action you want to do (insert, delete, and more)
