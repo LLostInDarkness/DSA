@@ -1,8 +1,6 @@
-Rebecca Negrete
-rnegrete
-rnegrete0454@gmail.com
-Assignment 3 Quicksort
-readme
+/*
+  Assignment 3 Quicksort
+  readme
 */
 
 Lomuto Quick Sort Findings
