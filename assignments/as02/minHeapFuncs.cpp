@@ -1,11 +1,9 @@
 /*
-Rebecca Negrete
-rnegrete0454@gmail.com
-minHeapFuncs.cpp
-Assignment 02: Integer Minimum Heap and Priority Queue
+  minHeapFuncs.cpp
+  Assignment 02: Integer Minimum Heap and Priority Queue
 
-Tested & Works (Resubmission)
-- Fixed memory leak and other problems
+  Tested & Works (Resubmission)
+  - Fixed memory leak and other problems
 */
 
 #include "minHeap.h"
