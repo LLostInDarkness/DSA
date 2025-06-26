@@ -1,7 +1,4 @@
 /*
-  Name: Rebecca Negrete
-  Pengo: rnegrete
-  Email: rnegrete0454@gmail.com
   File Name: stack.h
   Assignment: 21-1
 */
