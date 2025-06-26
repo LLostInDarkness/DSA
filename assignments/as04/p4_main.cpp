@@ -1,13 +1,10 @@
 /*
-Rebecca Negrete
-rnegrete
-rnegrete0454@gmail.com
-p4_main.cpp
-Assignment 3 Radix Bucket Sort
-Tested/Works
+  p4_main.cpp
+  Assignment 3 Radix Bucket Sort
+  Tested/Works
 
-Purpose: Recieve un specified amount of integers and sorts them in
-ascending order.
+  Purpose: Recieve unspecified amount of integers and sorts them in
+  ascending order.
 */
 
 #include <vector>
