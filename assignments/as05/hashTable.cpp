@@ -1,7 +1,4 @@
 /*
-  Rebecca Negrete
-  rnegrete
-  rnegrete0454@gmail.com
   hashTable.cpp
   Assignment 5: Hash
   Tested/Works
